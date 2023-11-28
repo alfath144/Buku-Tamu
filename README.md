@@ -2,7 +2,7 @@
 <html>
   <body>
     <h3>Assalamu'alaikum!</h3>
-    <p>Perkenalkan nama saya Alfath Nurjamkil dari kelas X PPLG 1, </p>
+    <p>Perkenalkan nama saya Alfath Nurjamil dari kelas X PPLG 1, </p>
     <p>di repository ini saya membagikan file" codingan dari modul 8 yaitu guestbook/bukutamu.</p>
     <p>Jangan lupa untuk menyalakan Apache dan MySQL nya pada XAMPP ya</p>
     <p> dan jangan lupa juga untuk membuat bukutamu di phpmyadmin agar codingannya berjalan dengan lancar.</p>
